@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[en_GB]=Toggle the built-in keyboard ON-OFF
+Comment=Toggle the built-in keyboard ON-OFF
+Exec=bash keyboard.sh
+GenericName[en_GB]=
+GenericName=
+Icon=$HOME/desktop-apps/kde/keyboard-on-off/icons/KB_ICON_ON.png
+MimeType=
+Name[en_GB]=Keyboard ON-OFF
+Name=Keyboard ON-OFF
+NoDisplay=false
+Path=$HOME/desktop-apps/kde/keyboard-on-off
+StartupNotify=false
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-KDE-SubstituteUID=false
+X-KDE-Username=
